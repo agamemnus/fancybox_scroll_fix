@@ -1,4 +1,4 @@
-This code combination is (c) 2013 Michael Romanovsky
+This code combination is (c) 2014 Michael Romanovsky
 Released under MIT license: http://opensource.org/licenses/MIT
 
 // This function is public domain.
